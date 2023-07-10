@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Art Space</string>
+
+    <string name="pic_one_cd">Photograph 1</string>
+    <string name="pic_two_cd">Photograph 1</string>
+    <string name="pic_three_cd">Photograph 1</string>
+    <string name="pic_four_cd">Photograph 1</string>
+    <string name="pic_five_cd">Photograph 1</string>
+    <string name="pic_six_cd">Photograph 1</string>
+
+    <string name="artist_one">Vincent Guth</string>
+    <string name="artist_two">Dave</string>
+    <string name="artist_three">Nathan Anderson</string>
+    <string name="artist_four">Peter Jab Rijpkema</string>
+    <string name="artist_five">Riley</string>
+    <string name="artist_six">Khamkeo Vilaysing</string>
+
+    <string name="year_one">2016</string>
+    <string name="year_two">2020</string>
+    <string name="year_three">2017</string>
+    <string name="year_four">2019</string>
+    <string name="year_five">2020</string>
+    <string name="year_six">2018</string>
+
+
+</resources>
